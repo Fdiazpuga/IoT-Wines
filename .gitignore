@@ -1,0 +1,5 @@
+ConexionBD.py
+*.logs
+*.log
+.vscode
+*.pyc
